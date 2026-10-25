@@ -1,3 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,PCBWAY,$10.00,$10.00,https://www.pcbway.com/QuickOrderOnline.aspx
+ESP32-S3 Zero,1,ali-express,$4.50,$4.50,https://www.aliexpress.com/item/1005006485999236.html?src=google
 Estimated total shipping,1,,,$0.00,
