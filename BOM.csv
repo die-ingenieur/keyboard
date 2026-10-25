@@ -1,2 +1,3 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
+PCB,1,PCBWAY,$10.00,$10.00,https://www.pcbway.com/QuickOrderOnline.aspx
 Estimated total shipping,1,,,$0.00,
