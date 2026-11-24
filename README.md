@@ -17,4 +17,5 @@ It works like the midi-keyboard (the starter for half-life) but you can record n
 
 Schematic bellow :
 <img width="485" height="431" alt="image" src="https://github.com/user-attachments/assets/ea6fac76-b2de-4a3b-b872-189397a9caf4" />
+<img width="703" height="551" alt="image" src="https://github.com/user-attachments/assets/4295db20-83bd-4319-9054-e04d182d9a7b" />
 
